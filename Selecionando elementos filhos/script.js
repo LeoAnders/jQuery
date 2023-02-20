@@ -1,10 +1,7 @@
 
-let body = $("body")
-console.log(body);
+let jq = $('#lista1').slideUp(3000).slideDown(2000)
+console.log(jq);
 
-console.log(body.children("#lista1"));
+//let js =document.getElementById('lista1')
 
-//lista1.find(".item2").hide()
-
-//console.log(lista1.children().fadeOut())
-
+//console.log('lista1');

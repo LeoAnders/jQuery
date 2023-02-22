@@ -6,7 +6,7 @@ Este é um repositório dedicado aos meus estudos sobre jQuery. Aqui, irei docum
 ---
 
 ### Sobre o jQuery
-jQuery é uma das bibliotecas de JavaScript mais populares do mundo. Ela é amplamente utilizada para a manipulação do DOM, tratamento de eventos, animações, efeitos visuais e muito mais. Com jQuery, é possível escrever código JavaScript mais rápido e com menos linhas de código.
+jQuery é uma biblioteca JavaScript. Ela é amplamente utilizada para a manipulação do DOM, tratamento de eventos, animações, efeitos visuais e muito mais. Com jQuery, é possível escrever código JavaScript mais rápido e com menos linhas de código.
 
 ---
 
